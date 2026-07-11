@@ -12,3 +12,7 @@ https://www.roco.cc/static/frontend/Casisoft/Roco/en\_GB/doc/AN/1/DE/8042615922.
 
 
 
+The schematics is drawn in Diptrace.
+
+
+
